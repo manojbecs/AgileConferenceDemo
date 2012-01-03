@@ -1,0 +1,5 @@
+[Bb]in/*
+gen/*
+test/*
+local.properties
+.settings
