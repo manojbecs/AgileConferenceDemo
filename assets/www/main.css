@@ -1,3 +1,25 @@
 .hidden {
 	display:none;
 }
+.slide-transition  {
+	-moz-transition: all 2s ease-in-out;
+	-webkit-transition: all 2s ease-in-out;
+	-o-transition: all 2s ease-in-out;
+	transition: all 2s ease-in-out;
+}
+.slide-in-left {
+	margin-left:0px;
+	display:block;
+}
+.slide-out-left {
+	margin-left: -500px;
+	display:none;
+}
+.slide-in-right {
+	margin-right:0px;
+	display:block;
+}
+.slide-out-right {
+	margin-right: -500px;
+	display:none;
+}
