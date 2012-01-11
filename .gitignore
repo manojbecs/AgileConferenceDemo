@@ -3,3 +3,7 @@ gen/*
 test/*
 local.properties
 .settings
+.classpath
+.project*
+src/*
+res/*
